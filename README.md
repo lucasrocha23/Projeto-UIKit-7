@@ -2,7 +2,7 @@
 
 #  Projeto-UIKit-7
 
-Esse é um jogo simples, feito com para aplicar os estudos de UIKit. Trata-se de um jogo em que aparecem alguns pinguins de tipos diferentes na tela, o primeiro tipo é o azul, que é o pinguim amigo, o segundo é o pinguim vermelho, que é o pinguim inimigo. O usuário precisa clicar no pinguim inimigo para ganhar pontos, mas se ele acertar o pinguim amigo ele perde cinco pontos.
+Esse é um jogo simples, feito com para aplicar os estudos de UIKit. Trata-se de um jogo no qual aparecem alguns pinguins de tipos diferentes na tela, o primeiro tipo é o azul, que é o pinguim amigo, o segundo é o pinguim vermelho, que é o pinguim inimigo. O usuário precisa clicar no pinguim inimigo para ganhar pontos, mas ao acertar o pinguim amigo ele perde cinco pontos.
 
 <br>
 <div align="center">
